@@ -21,7 +21,8 @@ The main contributions of EREL are:
     * *High Adaptability*: 
       * EREL can be used in wide range of applications
     
-- *Efficient implementation*: EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
+- *Efficient implementation*: 
+    * EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
     
     
 
