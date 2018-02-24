@@ -15,9 +15,11 @@ The main contributions of EREL are:
 
     * *High repeatability*
     
-    * *High Coverage*: Extracted regions cover most part of the image
+    * *High Coverage*: 
+      * Extracted regions cover most part of the image
     
-    * *High Adaptability*: EREL can be used in wide range of applications
+    * *High Adaptability*: 
+      * EREL can be used in wide range of applications
     
 - *Efficient implementation*: EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
     
