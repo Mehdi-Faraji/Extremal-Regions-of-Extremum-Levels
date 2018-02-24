@@ -7,17 +7,21 @@ The following repository contains the original implementation of the EREL detect
 
 ## Contribution.
 The main contributions of EREL are:
-- A new interest point called Maxima of Gradient Magnitudes (MGMs) is introduced. MGMs are mostly concentrated around the edges (region boundaries) 
+- A new interest point called **Maxima of Gradient Magnitudes (MGMs)** is introduced. MGMs are mostly concentrated around the edges (region boundaries) 
 
 ![MGMs](/Images/mgms_all.jpg)
 
-- Using global information of the image to select the extremal regions 
+- Using global information of the image to select the extremal regions. The extracted regions have:
 
-    * Improving repeatability
+    * *High repeatability*
     
-    * Detecting regions that covers most part of the image (higher coverage than MSER)
+    * *High Coverage*: Extracted regions cover most part of the image
     
-    * High-efficiency implementation
+    * *High Adaptability*: EREL can be used in wide range of applications
+    
+- *Efficient implementation*: EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
+    
+    
 
 ### If you use this code please cite the following publications:
 [1] Faraji, Mehdi, et al. "Extremal regions detection guided by maxima of gradient magnitude." IEEE Transactions on Image Processing 24.12 (2015): 5401-5415. [pdf]( http://vbn.aau.dk/ws/files/219488957/tip_preprint.pdf)
