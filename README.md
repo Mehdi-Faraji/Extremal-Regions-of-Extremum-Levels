@@ -1,5 +1,5 @@
 # Extremal-Regions-of-Extremum-Levels
-MEHDI FARAJI, JAMSHID SHANBEHZADEH, KAMAL NASROLLAHI, THOMAS B. MOESLUND
+Authors: MEHDI FARAJI, JAMSHID SHANBEHZADEH, KAMAL NASROLLAHI, THOMAS B. MOESLUND
 
 The following repository contains the original implementation of the EREL detector.
 
