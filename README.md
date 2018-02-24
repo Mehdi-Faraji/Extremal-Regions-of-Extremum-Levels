@@ -1,11 +1,16 @@
 # Extremal-Regions-of-Extremum-Levels
 Authors: MEHDI FARAJI, JAMSHID SHANBEHZADEH, KAMAL NASROLLAHI, THOMAS B. MOESLUND
 
+![Detected Regions](/Images/ubc13.jpg)
+
 The following repository contains the original implementation of the EREL detector.
 
 ## Contribution.
 The main contributions of EREL are:
 - A new interest point called Maxima of Gradient Magnitudes (MGMs) is introduced. MGMs are mostly concentrated around the edges (region boundaries) 
+
+![MGMs](/Images/mgms_all.jpg)
+
 - Using global information of the image to select the extremal regions 
 
     * Improving repeatability
