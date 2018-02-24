@@ -27,8 +27,8 @@ The main contributions of EREL are:
     
 
 ### If you use this code please cite the following publications:
-[1] Faraji, Mehdi, et al. "Extremal regions detection guided by maxima of gradient magnitude." IEEE Transactions on Image Processing 24.12 (2015): 5401-5415. [pdf]( http://vbn.aau.dk/ws/files/219488957/tip_preprint.pdf)
+**[1]** Faraji, Mehdi, et al. "Extremal regions detection guided by maxima of gradient magnitude." IEEE Transactions on Image Processing 24.12 (2015): 5401-5415. [pdf]( http://vbn.aau.dk/ws/files/219488957/tip_preprint.pdf)
 
-[2] Faraji, Mehdi, et al. "Erel: extremal regions of extremum levels." Image Processing (ICIP), 2015 IEEE International Conference on. IEEE, 2015. [pdf]( https://www.researchgate.net/profile/Jamshid_Shanbezadeh/publication/281681367_Extremal_Regions_Detection_Guided_by_Maxima_of_Gradient_Magnitude/links/5795759808aed51475dc7020/Extremal-Regions-Detection-Guided-by-Maxima-of-Gradient-Magnitude.pdf )
+**[2]** Faraji, Mehdi, et al. "Erel: extremal regions of extremum levels." Image Processing (ICIP), 2015 IEEE International Conference on. IEEE, 2015. [pdf]( https://www.researchgate.net/profile/Jamshid_Shanbezadeh/publication/281681367_Extremal_Regions_Detection_Guided_by_Maxima_of_Gradient_Magnitude/links/5795759808aed51475dc7020/Extremal-Regions-Detection-Guided-by-Maxima-of-Gradient-Magnitude.pdf )
 
  
