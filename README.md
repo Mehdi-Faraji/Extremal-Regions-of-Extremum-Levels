@@ -20,8 +20,11 @@ The main contributions of EREL are:
     
     * *High Adaptability*: 
       * EREL can be used in wide range of applications
+      
+    * Quasi-linear Time Complexity 
+      * EREL can detect repeatable regions in a quasi-linear time which is very fast.
     
-- *Efficient implementation*: 
+- *Available Implementation*: 
     * EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
     
     
