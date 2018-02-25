@@ -27,7 +27,7 @@ The main contributions of EREL are:
 - *Available Implementation*: 
     * EREL has been implemented by C++, however it can be easily run in Matlab using the provided interface written in a MEX (Matlab Executable) file.
     
-    
+[![Visual Abstract of EREL](/Images/vd.JPG)](https://youtu.be/gHjAA7t6lQE "Visual Demonstration of EREL Detection" )
 
 ### If you use this code please cite the following publications:
 **[1]** Faraji, Mehdi, et al. "Extremal regions detection guided by maxima of gradient magnitude." IEEE Transactions on Image Processing 24.12 (2015): 5401-5415. [pdf]( http://vbn.aau.dk/ws/files/219488957/tip_preprint.pdf)
